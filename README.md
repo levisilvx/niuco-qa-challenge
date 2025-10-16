@@ -4,7 +4,7 @@ Neste repositório encontram-se os testes automitizados para o challenge da vaga
 
 ## Como utilizar
 
-1. clone o repo
+1. Clone o repositório
 ```sh
 git clone <link deste repo>
 cd niuco-qa-challenge
